@@ -1,1 +1,1 @@
-# cdn.io
+# storage.io
